@@ -1,0 +1,1407 @@
+{
+  "versao": "1.0.0",
+  "idioma": "pt-BR",
+  "fonte": "curadoria_interna",
+  "palavras": [
+    {
+      "tema": "animais",
+      "palavra_exibida": "CÃO",
+      "forma_normalizada": "CAO",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "GATO",
+      "forma_normalizada": "GATO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "PATO",
+      "forma_normalizada": "PATO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "RATO",
+      "forma_normalizada": "RATO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "SAPO",
+      "forma_normalizada": "SAPO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "PEIXE",
+      "forma_normalizada": "PEIXE",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "CAVALO",
+      "forma_normalizada": "CAVALO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "LEÃO",
+      "forma_normalizada": "LEAO",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "LOBO",
+      "forma_normalizada": "LOBO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "URSO",
+      "forma_normalizada": "URSO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "VACA",
+      "forma_normalizada": "VACA",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "GALINHA",
+      "forma_normalizada": "GALINHA",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "PORCO",
+      "forma_normalizada": "PORCO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "MACACO",
+      "forma_normalizada": "MACACO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "TIGRE",
+      "forma_normalizada": "TIGRE",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "ELEFANTE",
+      "forma_normalizada": "ELEFANTE",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "COELHO",
+      "forma_normalizada": "COELHO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "BORBOLETA",
+      "forma_normalizada": "BORBOLETA",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "FORMIGA",
+      "forma_normalizada": "FORMIGA",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "TARTARUGA",
+      "forma_normalizada": "TARTARUGA",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "CAMELO",
+      "forma_normalizada": "CAMELO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "ZEBRA",
+      "forma_normalizada": "ZEBRA",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "JACARÉ",
+      "forma_normalizada": "JACARE",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "TUCANO",
+      "forma_normalizada": "TUCANO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "PINGUIM",
+      "forma_normalizada": "PINGUIM",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "GIRAFA",
+      "forma_normalizada": "GIRAFA",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "CORUJA",
+      "forma_normalizada": "CORUJA",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "LAGARTO",
+      "forma_normalizada": "LAGARTO",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "ARARA",
+      "forma_normalizada": "ARARA",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "CAVALO-MARINHO",
+      "forma_normalizada": "CAVALOMARINHO",
+      "nivel": "C",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "POLVO",
+      "forma_normalizada": "POLVO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "CAMARÃO",
+      "forma_normalizada": "CAMARAO",
+      "nivel": "C",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "CANGURU",
+      "forma_normalizada": "CANGURU",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "GALO",
+      "forma_normalizada": "GALO",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "BEIJA-FLOR",
+      "forma_normalizada": "BEIJAFLOR",
+      "nivel": "C",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "MOSCA",
+      "forma_normalizada": "MOSCA",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "CARACOL",
+      "forma_normalizada": "CARACOL",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "TATU",
+      "forma_normalizada": "TATU",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "PAVÃO",
+      "forma_normalizada": "PAVAO",
+      "nivel": "B",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "animais",
+      "palavra_exibida": "FOCA",
+      "forma_normalizada": "FOCA",
+      "nivel": "A",
+      "dica": "É um animal conhecido pelas crianças."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "BANANA",
+      "forma_normalizada": "BANANA",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "MAÇÃ",
+      "forma_normalizada": "MACA",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "PERA",
+      "forma_normalizada": "PERA",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "UVA",
+      "forma_normalizada": "UVA",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "LIMÃO",
+      "forma_normalizada": "LIMAO",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "LARANJA",
+      "forma_normalizada": "LARANJA",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "MELÃO",
+      "forma_normalizada": "MELAO",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "MELANCIA",
+      "forma_normalizada": "MELANCIA",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "ABACAXI",
+      "forma_normalizada": "ABACAXI",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "COCO",
+      "forma_normalizada": "COCO",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "GOIABA",
+      "forma_normalizada": "GOIABA",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "MANGA",
+      "forma_normalizada": "MANGA",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "KIWI",
+      "forma_normalizada": "KIWI",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "MORANGO",
+      "forma_normalizada": "MORANGO",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "CEREJA",
+      "forma_normalizada": "CEREJA",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "AMEIXA",
+      "forma_normalizada": "AMEIXA",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "FIGO",
+      "forma_normalizada": "FIGO",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "CAJU",
+      "forma_normalizada": "CAJU",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "PITANGA",
+      "forma_normalizada": "PITANGA",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "JABUTICABA",
+      "forma_normalizada": "JABUTICABA",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "MARACUJÁ",
+      "forma_normalizada": "MARACUJA",
+      "nivel": "C",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "FRAMBOESA",
+      "forma_normalizada": "FRAMBOESA",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "TANGERINA",
+      "forma_normalizada": "TANGERINA",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "GRAVIOLA",
+      "forma_normalizada": "GRAVIOLA",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "CUPUAÇU",
+      "forma_normalizada": "CUPUACU",
+      "nivel": "C",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "PÊSSEGO",
+      "forma_normalizada": "PESSEGO",
+      "nivel": "C",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "DAMASCO",
+      "forma_normalizada": "DAMASCO",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "ACEROLA",
+      "forma_normalizada": "ACEROLA",
+      "nivel": "B",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "frutas",
+      "palavra_exibida": "AMEIXA",
+      "forma_normalizada": "AMEIXA",
+      "nivel": "A",
+      "dica": "É uma fruta gostosa e colorida."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "LIVRO",
+      "forma_normalizada": "LIVRO",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "CADERNO",
+      "forma_normalizada": "CADERNO",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "LÁPIS",
+      "forma_normalizada": "LAPIS",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "CANETA",
+      "forma_normalizada": "CANETA",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "RÉGUA",
+      "forma_normalizada": "REGUA",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "BORRACHA",
+      "forma_normalizada": "BORRACHA",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "QUADRO",
+      "forma_normalizada": "QUADRO",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "GIZ",
+      "forma_normalizada": "GIZ",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "MESA",
+      "forma_normalizada": "MESA",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "CADEIRA",
+      "forma_normalizada": "CADEIRA",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "MOCHILA",
+      "forma_normalizada": "MOCHILA",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "PROFESSOR",
+      "forma_normalizada": "PROFESSOR",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "ESCOLA",
+      "forma_normalizada": "ESCOLA",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "PAPEL",
+      "forma_normalizada": "PAPEL",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "TINTA",
+      "forma_normalizada": "TINTA",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "TESOURA",
+      "forma_normalizada": "TESOURA",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "COLA",
+      "forma_normalizada": "COLA",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "LIVRARIA",
+      "forma_normalizada": "LIVRARIA",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "LANCHE",
+      "forma_normalizada": "LANCHE",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "QUADRO-NEGRO",
+      "forma_normalizada": "QUADRONEGRO",
+      "nivel": "C",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "GLOBO",
+      "forma_normalizada": "GLOBO",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "MAPA",
+      "forma_normalizada": "MAPA",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "APAGADOR",
+      "forma_normalizada": "APAGADOR",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "ESTOJO",
+      "forma_normalizada": "ESTOJO",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "TAREFA",
+      "forma_normalizada": "TAREFA",
+      "nivel": "A",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "GIZ DE CERA",
+      "forma_normalizada": "GIZDECERA",
+      "nivel": "C",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "LAPISEIRA",
+      "forma_normalizada": "LAPISEIRA",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "LIVRINHO",
+      "forma_normalizada": "LIVRINHO",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "escola",
+      "palavra_exibida": "APONTADOR",
+      "forma_normalizada": "APONTADOR",
+      "nivel": "B",
+      "dica": "Objeto ou ideia usada na escola."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "PORTA",
+      "forma_normalizada": "PORTA",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "JANELA",
+      "forma_normalizada": "JANELA",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "CAMA",
+      "forma_normalizada": "CAMA",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "SOFÁ",
+      "forma_normalizada": "SOFA",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "TELEVISÃO",
+      "forma_normalizada": "TELEVISAO",
+      "nivel": "C",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "MESA",
+      "forma_normalizada": "MESA",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "CADEIRA",
+      "forma_normalizada": "CADEIRA",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "LUZ",
+      "forma_normalizada": "LUZ",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "COPO",
+      "forma_normalizada": "COPO",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "PRATO",
+      "forma_normalizada": "PRATO",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "FACA",
+      "forma_normalizada": "FACA",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "COLHER",
+      "forma_normalizada": "COLHER",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "GARFO",
+      "forma_normalizada": "GARFO",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "TAPETE",
+      "forma_normalizada": "TAPETE",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "ESPELHO",
+      "forma_normalizada": "ESPELHO",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "ARMÁRIO",
+      "forma_normalizada": "ARMARIO",
+      "nivel": "C",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "GELADEIRA",
+      "forma_normalizada": "GELADEIRA",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "FOGÃO",
+      "forma_normalizada": "FOGAO",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "PANELAS",
+      "forma_normalizada": "PANELAS",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "COZINHA",
+      "forma_normalizada": "COZINHA",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "QUARTO",
+      "forma_normalizada": "QUARTO",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "COBERTOR",
+      "forma_normalizada": "COBERTOR",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "ALMOFADA",
+      "forma_normalizada": "ALMOFADA",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "CHAVE",
+      "forma_normalizada": "CHAVE",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "CORTINA",
+      "forma_normalizada": "CORTINA",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "TRAVESSEIRO",
+      "forma_normalizada": "TRAVESSEIRO",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "QUADRO",
+      "forma_normalizada": "QUADRO",
+      "nivel": "A",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "ABANADOR",
+      "forma_normalizada": "ABANADOR",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "TELEFONE",
+      "forma_normalizada": "TELEFONE",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "casa",
+      "palavra_exibida": "BANHEIRO",
+      "forma_normalizada": "BANHEIRO",
+      "nivel": "B",
+      "dica": "Objeto comum que existe em casa."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "BOLA",
+      "forma_normalizada": "BOLA",
+      "nivel": "A",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "BONECA",
+      "forma_normalizada": "BONECA",
+      "nivel": "A",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "PIÃO",
+      "forma_normalizada": "PIAO",
+      "nivel": "B",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "URSINHO",
+      "forma_normalizada": "URSINHO",
+      "nivel": "B",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "CARRINHO",
+      "forma_normalizada": "CARRINHO",
+      "nivel": "B",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "QUEBRA-CABEÇA",
+      "forma_normalizada": "QUEBRACABECA",
+      "nivel": "C",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "AVIÃO",
+      "forma_normalizada": "AVIAO",
+      "nivel": "B",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "BLOCO",
+      "forma_normalizada": "BLOCO",
+      "nivel": "A",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "BALÃO",
+      "forma_normalizada": "BALAO",
+      "nivel": "B",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "PIPA",
+      "forma_normalizada": "PIPA",
+      "nivel": "A",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "DOMINÓ",
+      "forma_normalizada": "DOMINO",
+      "nivel": "B",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "PATINS",
+      "forma_normalizada": "PATINS",
+      "nivel": "A",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "SKATE",
+      "forma_normalizada": "SKATE",
+      "nivel": "A",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "TRENZINHO",
+      "forma_normalizada": "TRENZINHO",
+      "nivel": "B",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "CUBO",
+      "forma_normalizada": "CUBO",
+      "nivel": "A",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "CARRINHOS",
+      "forma_normalizada": "CARRINHOS",
+      "nivel": "B",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "BAMBOLÊ",
+      "forma_normalizada": "BAMBOLE",
+      "nivel": "C",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "CARRINHO-DE-MÃO",
+      "forma_normalizada": "CARRINHODEMAO",
+      "nivel": "C",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "JOGO",
+      "forma_normalizada": "JOGO",
+      "nivel": "A",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "CARTAS",
+      "forma_normalizada": "CARTAS",
+      "nivel": "A",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "PATINETE",
+      "forma_normalizada": "PATINETE",
+      "nivel": "B",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "brinquedos",
+      "palavra_exibida": "BICICLETA",
+      "forma_normalizada": "BICICLETA",
+      "nivel": "B",
+      "dica": "É um brinquedo para se divertir."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "ÁRVORE",
+      "forma_normalizada": "ARVORE",
+      "nivel": "B",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "FLOR",
+      "forma_normalizada": "FLOR",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "SOL",
+      "forma_normalizada": "SOL",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "LUA",
+      "forma_normalizada": "LUA",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "ESTRELA",
+      "forma_normalizada": "ESTRELA",
+      "nivel": "B",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "CÉU",
+      "forma_normalizada": "CEU",
+      "nivel": "B",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "MAR",
+      "forma_normalizada": "MAR",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "PEDRA",
+      "forma_normalizada": "PEDRA",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "RIO",
+      "forma_normalizada": "RIO",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "NUVEM",
+      "forma_normalizada": "NUVEM",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "VENTO",
+      "forma_normalizada": "VENTO",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "CHUVA",
+      "forma_normalizada": "CHUVA",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "RELVA",
+      "forma_normalizada": "RELVA",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "AREIA",
+      "forma_normalizada": "AREIA",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "MONTANHA",
+      "forma_normalizada": "MONTANHA",
+      "nivel": "B",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "FLORESTA",
+      "forma_normalizada": "FLORESTA",
+      "nivel": "B",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "TERRA",
+      "forma_normalizada": "TERRA",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "LAGO",
+      "forma_normalizada": "LAGO",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "DESERTO",
+      "forma_normalizada": "DESERTO",
+      "nivel": "B",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "ILHA",
+      "forma_normalizada": "ILHA",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "CACHOEIRA",
+      "forma_normalizada": "CACHOEIRA",
+      "nivel": "B",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "natureza",
+      "palavra_exibida": "PRAIA",
+      "forma_normalizada": "PRAIA",
+      "nivel": "A",
+      "dica": "Algo que vemos na natureza."
+    },
+    {
+      "tema": "cores",
+      "palavra_exibida": "AZUL",
+      "forma_normalizada": "AZUL",
+      "nivel": "A",
+      "dica": "É uma cor."
+    },
+    {
+      "tema": "cores",
+      "palavra_exibida": "VERMELHO",
+      "forma_normalizada": "VERMELHO",
+      "nivel": "B",
+      "dica": "É uma cor."
+    },
+    {
+      "tema": "cores",
+      "palavra_exibida": "VERDE",
+      "forma_normalizada": "VERDE",
+      "nivel": "A",
+      "dica": "É uma cor."
+    },
+    {
+      "tema": "cores",
+      "palavra_exibida": "AMARELO",
+      "forma_normalizada": "AMARELO",
+      "nivel": "B",
+      "dica": "É uma cor."
+    },
+    {
+      "tema": "cores",
+      "palavra_exibida": "ROSA",
+      "forma_normalizada": "ROSA",
+      "nivel": "A",
+      "dica": "É uma cor."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "MÃO",
+      "forma_normalizada": "MAO",
+      "nivel": "B",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "PÉ",
+      "forma_normalizada": "PE",
+      "nivel": "B",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "OLHO",
+      "forma_normalizada": "OLHO",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "BOCA",
+      "forma_normalizada": "BOCA",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "NARIZ",
+      "forma_normalizada": "NARIZ",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "ORELHA",
+      "forma_normalizada": "ORELHA",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "CABELO",
+      "forma_normalizada": "CABELO",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "DENTE",
+      "forma_normalizada": "DENTE",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "BARRIGA",
+      "forma_normalizada": "BARRIGA",
+      "nivel": "B",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "PERNA",
+      "forma_normalizada": "PERNA",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "BRAÇO",
+      "forma_normalizada": "BRACO",
+      "nivel": "B",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "DEDO",
+      "forma_normalizada": "DEDO",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "UNHA",
+      "forma_normalizada": "UNHA",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "COSTA",
+      "forma_normalizada": "COSTA",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "PESCOÇO",
+      "forma_normalizada": "PESCOCO",
+      "nivel": "C",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "JOELHO",
+      "forma_normalizada": "JOELHO",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "OMBRO",
+      "forma_normalizada": "OMBRO",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "COTOVELO",
+      "forma_normalizada": "COTOVELO",
+      "nivel": "B",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "COSTELA",
+      "forma_normalizada": "COSTELA",
+      "nivel": "B",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "LÁBIO",
+      "forma_normalizada": "LABIO",
+      "nivel": "B",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "PULSO",
+      "forma_normalizada": "PULSO",
+      "nivel": "A",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "TORNOZELO",
+      "forma_normalizada": "TORNOZELO",
+      "nivel": "B",
+      "dica": "Parte do corpo."
+    },
+    {
+      "tema": "corpo",
+      "palavra_exibida": "CORAÇÃO",
+      "forma_normalizada": "CORACAO",
+      "nivel": "C",
+      "dica": "Parte do corpo."
+    }
+  ]
+}
